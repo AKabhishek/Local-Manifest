@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Atomic-OS -->
+  <!--  Kenzo -->
+  <project path="device/xiaomi/kenzo" name="AKabhishek/device_xiaomi_kenzo" remote="github" revision="n-mr2" />
+  <project path="device/xiaomi/msm8956-common" name="AKabhishek/device_xiaomi_msm8956-common" remote="github" revision="n-mr2" />
+  <project path="vendor/xiaomi" name="AKabhishek/vendor_xiaomi" remote="github" revision="n-mr2" />
+  <project path="kernel/xiaomi/msm8956" name="AKabhishek/kernel_xiaomi_msm8956" remote="github" revision="nucleon" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+
+  <!-- Z00L -->
+  <project path="device/asus/Z00L" name="AKabhishek/device_asus_Z00L" remote="github" revision="n-mr2" />
+  <project path="device/asus/msm8916-common" name="AKabhishek/device_asus_msm8916-common" remote="github" revision="n-mr2" />
+  <project path="kernel/asus/msm8916" name="LineageOS/android_kernel_asus_msm8916" remote="github" revision="cm-14.1" />
+  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-14.1" />
+
+  <!-- Mido -->
+  <project path="device/xiaomi/mido" name="AKabhishek/device_xiaomi_mido" remote="github" revision="n-mr2" />
+  <project path="kernel/xiaomi/msm8953" name="AKabhishek/kernel_xiaomi_msm8953" remote="github" revision="n-mr2" />
+
+  <!-- DarkNess reDefined -->
+  <!-- Kenzo -->
+  <project path="device/xiaomi/kenzo" name="AKabhishek/device_xiaomi_kenzo" remote="github" revision="n7x" />
+  <project path="device/xiaomi/msm8956-common" name="AKabhishek/device_xiaomi_msm8956-common" remote="github" revision="n7x" />
+  <project path="vendor/xiaomi" name="AKabhishek/vendor_xiaomi" remote="github" revision="n-mr2" />
+  <project path="kernel/xiaomi/msm8956" name="AKabhishek/kernel_xiaomi_msm8956" remote="github" revision="nucleon" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+
+  <!-- Z00L -->
+  <project path="device/asus/Z00L" name="AKabhishek/device_asus_Z00L" remote="github" revision="n7x" />
+  <project path="device/asus/msm8916-common" name="AKabhishek/device_asus_msm8916-common" remote="github" revision="n7x" />
+  <project path="kernel/asus/msm8916" name="LineageOS/android_kernel_asus_msm8916" remote="github" revision="cm-14.1" />
+  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="github" revision="cm-14.1" />
+
+  <!-- Mido -->
+  <project path="device/xiaomi/mido" name="AKabhishek/device_xiaomi_mido" remote="github" revision="n7x" />
+  <project path="kernel/xiaomi/msm8953" name="AKabhishek/kernel_xiaomi_msm8953" remote="github" revision="n-mr2" />
+
+</manifest>
